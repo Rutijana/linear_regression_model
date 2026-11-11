@@ -90,9 +90,9 @@ app = FastAPI(
 )
 
 # CORS (Cross-Origin Resource Sharing) decides which *websites* may call this API from a browser.
-# - allow_origins: only our own deployed site and local Flutter-web debug servers. No "*", so a random
-#   website can't use this API from its visitors' browsers. Replace the Render placeholder with the
-#   real URL after deploying. (Run Flutter web with `flutter run -d chrome --web-port 8080` to match.)
+# - allow_origins: only our own deployed site (https://farmgate-api.onrender.com, where Swagger /docs
+#   runs) and local Flutter-web debug servers. No "*", so a random website can't use this API from
+#   its visitors' browsers. (Run Flutter web with `flutter run -d chrome --web-port 8080` to match.)
 # - allow_methods: only GET (health/docs), POST (/predict, /retrain) and OPTIONS (browser preflight).
 #   PUT/PATCH/DELETE are not used, so they are blocked.
 # - allow_headers: only Content-Type (JSON body / multipart upload) and Accept are needed.
@@ -103,7 +103,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://farm-price-predictor.onrender.com",  # placeholder: replace with the real Render URL
+        "https://farmgate-api.onrender.com",  # deployed API on Render (Swagger UI at /docs)
         "http://localhost:8080",
         "http://127.0.0.1:8080",
         "http://localhost:3000",
