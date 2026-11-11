@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Flutter / Dart build output
+summative/FlutterApp/build/
+summative/FlutterApp/.dart_tool/
+summative/FlutterApp/.flutter-plugins
+summative/FlutterApp/.flutter-plugins-dependencies
+summative/FlutterApp/android/.gradle/
+summative/FlutterApp/ios/Pods/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime files written by the API
+summative/API/uploaded_rows.csv
+summative/API/*.tmp

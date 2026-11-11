@@ -1,0 +1,121 @@
+year,month,latitude,longitude,commodity,category,unit,market,admin1,admin2,pricetype,price
+2026,2,-2.14,29.31,Oil (palm),oil and fats,L,Mubuga,Western Province,Karongi,Retail,3500.0
+2026,2,-2.67,29.85,Cabbage,vegetables and fruits,KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,250.0
+2026,2,-2.24,30.8,Sugar,miscellaneous food,KG,Kigufi,Eastern Province,Kirehe,Retail,1900.0
+2026,5,-2.69,29.85,Maize flour (imported),cereals and tubers,KG,Kabuga,Southern Province,Gisagara,Retail,1200.0
+2026,4,-2.49,29.52,Rice (imported),cereals and tubers,KG,Kigeme,Southern Province,Nyamagabe,Retail,1313.33
+2026,7,-2.67,29.85,Cabbage,vegetables and fruits,KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,260.0
+2026,5,-2.31,30.83,Sugar,miscellaneous food,KG,Kabeza,Eastern Province,Kirehe,Retail,1700.0
+2026,6,-2.69,29.85,Potatoes,cereals and tubers,KG,Kabuga,Southern Province,Gisagara,Retail,350.0
+2026,2,-2.51,29.48,Maize flour,cereals and tubers,KG,Gasarenda,Southern Province,Nyamagabe,Retail,900.0
+2026,2,-2.13,29.36,Fish (dry),"meat, fish and eggs",KG,Kiziba (Camp),Western Province,Karongi,Retail,3650.0
+2026,4,-2.06,29.41,Oil,oil and fats,L,Rubengera,Western Province,Karongi,Retail,4000.0
+2026,2,-2.14,29.31,Salt,miscellaneous food,KG,Mubuga,Western Province,Karongi,Retail,600.0
+2026,6,-1.6,30.26,"Rice (imported, Tanzanian)",cereals and tubers,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,1891.3
+2026,7,-1.6,30.26,Bananas,vegetables and fruits,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,420.0
+2026,3,-2.65,29.78,Oil,oil and fats,L,Kibirizi,Southern Province,Gisagara,Retail,2975.0
+2026,2,-2.31,30.84,Maize flour (imported),cereals and tubers,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,1100.0
+2026,1,-2.6,29.84,Maize flour,cereals and tubers,KG,Gisagara,Southern Province,Gisagara,Retail,800.0
+2026,4,-2.07,29.35,Oil (palm),oil and fats,L,Karongi,Western Province,Karongi,Retail,4000.0
+2026,3,-2.06,29.41,Maize,cereals and tubers,KG,Rubengera,Western Province,Karongi,Retail,700.0
+2026,7,-1.6,30.28,Bananas,vegetables and fruits,KG,Mugera,Eastern Province,Gatsibo,Retail,300.0
+2026,7,-2.51,29.48,Rice (local),cereals and tubers,KG,Gasarenda,Southern Province,Nyamagabe,Retail,1200.0
+2026,5,-2.48,29.52,Maize flour,cereals and tubers,KG,Kigeme (Camp),Southern Province,Nyamagabe,Retail,950.0
+2026,4,-2.51,29.48,Rice (imported),cereals and tubers,KG,Gasarenda,Southern Province,Nyamagabe,Retail,1400.0
+2026,8,-2.13,29.36,"Rice (long grain, high quality, local)",cereals and tubers,KG,Kiziba (Camp),Western Province,Karongi,Retail,1611.11
+2026,4,-2.13,29.36,"Rice (imported, Tanzanian)",cereals and tubers,KG,Kiziba (Camp),Western Province,Karongi,Retail,1531.25
+2026,7,-2.65,29.78,Maize flour,cereals and tubers,KG,Kibirizi,Southern Province,Gisagara,Retail,933.33
+2026,4,-2.07,29.35,Cassava,cereals and tubers,KG,Karongi,Western Province,Karongi,Retail,400.0
+2026,4,-2.14,29.31,Potatoes,cereals and tubers,KG,Mubuga,Western Province,Karongi,Retail,300.0
+2026,4,-2.48,29.52,Maize flour,cereals and tubers,KG,Kigeme (Camp),Southern Province,Nyamagabe,Retail,971.43
+2026,7,-2.68,29.85,Maize flour (imported),cereals and tubers,KG,Mugombwa,Southern Province,Gisagara,Retail,1200.0
+2026,3,-2.31,30.84,Maize,cereals and tubers,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,570.97
+2026,6,-2.24,30.8,Rice (imported),cereals and tubers,KG,Kigufi,Eastern Province,Kirehe,Retail,1400.0
+2026,2,-2.49,29.52,Oil,oil and fats,L,Kigeme,Southern Province,Nyamagabe,Retail,2752.05
+2026,7,-2.51,29.48,Oil,oil and fats,L,Gasarenda,Southern Province,Nyamagabe,Retail,3000.0
+2026,5,-1.6,30.26,Potatoes,cereals and tubers,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,425.0
+2026,6,-2.28,30.59,Cassava,cereals and tubers,KG,Gatore,Eastern Province,Kirehe,Retail,500.0
+2026,3,-2.48,29.52,Maize,cereals and tubers,KG,Kigeme (Camp),Southern Province,Nyamagabe,Retail,607.53
+2026,4,-2.28,30.77,"Rice (imported, Tanzanian)",cereals and tubers,KG,Nyamugari,Eastern Province,Kirehe,Retail,1600.0
+2026,3,-2.68,29.85,"Rice (imported, Tanzanian)",cereals and tubers,KG,Mugombwa,Southern Province,Gisagara,Retail,1600.0
+2026,4,-2.67,29.85,Fish (dry),"meat, fish and eggs",KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,4500.0
+2026,2,-2.49,29.52,Cassava leaves,vegetables and fruits,KG,Kigeme,Southern Province,Nyamagabe,Retail,500.0
+2026,6,-2.28,30.59,Cassava flour,cereals and tubers,KG,Gatore,Eastern Province,Kirehe,Retail,700.0
+2026,5,-2.13,29.36,Maize,cereals and tubers,KG,Kiziba (Camp),Western Province,Karongi,Retail,650.0
+2026,1,-2.31,30.84,Cassava leaves,vegetables and fruits,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,315.38
+2026,2,-2.67,29.85,"Rice (imported, Tanzanian)",cereals and tubers,KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,1400.0
+2026,6,-2.28,30.59,Maize flour (imported),cereals and tubers,KG,Gatore,Eastern Province,Kirehe,Retail,1200.0
+2026,6,-2.31,30.84,Maize flour,cereals and tubers,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,965.0
+2026,8,-2.49,29.52,Salt,miscellaneous food,KG,Kigeme,Southern Province,Nyamagabe,Retail,600.0
+2026,7,-2.31,30.83,Fish (dry),"meat, fish and eggs",KG,Kabeza,Eastern Province,Kirehe,Retail,4500.0
+2026,2,-2.07,29.35,Potatoes,cereals and tubers,KG,Karongi,Western Province,Karongi,Retail,400.0
+2026,3,-2.24,30.8,Rice (local),cereals and tubers,KG,Kigufi,Eastern Province,Kirehe,Retail,1300.0
+2026,8,-2.24,30.8,Beans (dry),pulses and nuts,KG,Kigufi,Eastern Province,Kirehe,Retail,800.0
+2026,2,-2.24,30.8,Potatoes (Irish),cereals and tubers,KG,Kigufi,Eastern Province,Kirehe,Retail,300.0
+2026,2,-2.69,29.85,Beans (dry),pulses and nuts,KG,Kabuga,Southern Province,Gisagara,Retail,650.0
+2026,1,-2.47,29.58,Maize flour,cereals and tubers,KG,Kabacuzi,Southern Province,Nyamagabe,Retail,800.0
+2026,4,-2.69,29.85,Maize flour,cereals and tubers,KG,Kabuga,Southern Province,Gisagara,Retail,900.0
+2026,5,-1.6,30.25,Sorghum,cereals and tubers,KG,Bubare,Eastern Province,Gatsibo,Retail,800.0
+2026,5,-1.54,30.24,Rice (imported),cereals and tubers,KG,Ngarama,Eastern Province,Gatsibo,Retail,1400.0
+2026,2,-2.31,30.83,Fish (dry),"meat, fish and eggs",KG,Kabeza,Eastern Province,Kirehe,Retail,3800.0
+2026,8,-1.6,30.26,Salt,miscellaneous food,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,678.12
+2026,4,-2.31,30.83,Rice (local),cereals and tubers,KG,Kabeza,Eastern Province,Kirehe,Retail,1200.0
+2026,7,-2.65,29.78,Bananas,vegetables and fruits,KG,Kibirizi,Southern Province,Gisagara,Retail,450.0
+2026,4,-2.68,29.85,Maize flour (imported),cereals and tubers,KG,Mugombwa,Southern Province,Gisagara,Retail,1150.0
+2026,4,-2.48,29.52,Bananas,vegetables and fruits,KG,Kigeme (Camp),Southern Province,Nyamagabe,Retail,1042.86
+2026,2,-2.27,30.68,Oil,oil and fats,L,Nyakarambi,Eastern Province,Kirehe,Retail,2900.0
+2026,7,-2.14,29.31,Beans (dry),pulses and nuts,KG,Mubuga,Western Province,Karongi,Retail,1116.67
+2026,2,-2.65,29.78,Beans (dry),pulses and nuts,KG,Kibirizi,Southern Province,Gisagara,Retail,724.13
+2026,6,-2.27,30.68,Rice (imported),cereals and tubers,KG,Nyakarambi,Eastern Province,Kirehe,Retail,1300.0
+2026,5,-2.67,29.85,Rice (imported),cereals and tubers,KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,1300.0
+2026,7,-2.6,29.84,"Rice (imported, Tanzanian)",cereals and tubers,KG,Gisagara,Southern Province,Gisagara,Retail,1700.0
+2026,4,-1.6,30.25,Cassava flour,cereals and tubers,KG,Bubare,Eastern Province,Gatsibo,Retail,700.0
+2026,6,-2.06,29.41,Beans (dry),pulses and nuts,KG,Rubengera,Western Province,Karongi,Retail,1000.0
+2026,4,-1.6,30.28,Maize flour,cereals and tubers,KG,Mugera,Eastern Province,Gatsibo,Retail,900.0
+2026,2,-2.28,30.59,Potatoes (Irish),cereals and tubers,KG,Gatore,Eastern Province,Kirehe,Retail,400.0
+2026,6,-2.27,30.68,Bananas,vegetables and fruits,KG,Nyakarambi,Eastern Province,Kirehe,Retail,400.0
+2026,4,-2.48,29.52,Beans (dry),pulses and nuts,KG,Kigeme (Camp),Southern Province,Nyamagabe,Retail,992.22
+2026,5,-2.49,29.52,Oil,oil and fats,L,Kigeme,Southern Province,Nyamagabe,Retail,3225.0
+2026,6,-2.31,30.84,"Rice (imported, Tanzanian)",cereals and tubers,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,1360.0
+2026,2,-2.07,29.35,Potatoes (Irish),cereals and tubers,KG,Karongi,Western Province,Karongi,Retail,550.0
+2026,2,-2.16,29.39,Potatoes,cereals and tubers,KG,Kivuruga,Western Province,Karongi,Retail,400.0
+2026,1,-1.6,30.26,Bananas,vegetables and fruits,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,421.43
+2026,7,-2.28,30.59,Cabbage,vegetables and fruits,KG,Gatore,Eastern Province,Kirehe,Retail,300.0
+2026,2,-2.16,29.39,Beans (dry),pulses and nuts,KG,Kivuruga,Western Province,Karongi,Retail,1100.0
+2026,4,-2.28,30.59,Fish (dry),"meat, fish and eggs",KG,Gatore,Eastern Province,Kirehe,Retail,3500.0
+2026,2,-1.6,30.27,Sorghum,cereals and tubers,KG,Ntungaruze,Eastern Province,Gatsibo,Retail,650.0
+2026,2,-2.68,29.85,Beans (dry),pulses and nuts,KG,Mugombwa,Southern Province,Gisagara,Retail,766.67
+2026,7,-1.6,30.25,Cassava flour,cereals and tubers,KG,Bubare,Eastern Province,Gatsibo,Retail,800.0
+2026,6,-2.07,29.35,Cassava flour,cereals and tubers,KG,Karongi,Western Province,Karongi,Retail,1000.0
+2026,1,-2.67,29.85,Maize,cereals and tubers,KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,742.92
+2026,6,-1.54,30.24,Beans (dry),pulses and nuts,KG,Ngarama,Eastern Province,Gatsibo,Retail,800.0
+2026,2,-2.07,29.35,Cassava flour,cereals and tubers,KG,Karongi,Western Province,Karongi,Retail,600.0
+2026,3,-2.31,30.84,Oil,oil and fats,L,Mahama (Camp),Eastern Province,Kirehe,Retail,3058.06
+2026,1,-2.47,29.58,Sugar,miscellaneous food,KG,Kabacuzi,Southern Province,Nyamagabe,Retail,1500.0
+2026,4,-2.31,30.84,Potatoes,cereals and tubers,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,500.0
+2026,4,-2.49,29.52,Beans (dry),pulses and nuts,KG,Kigeme,Southern Province,Nyamagabe,Retail,931.48
+2026,5,-2.07,29.35,Cabbage,vegetables and fruits,KG,Karongi,Western Province,Karongi,Retail,200.0
+2026,5,-2.31,30.83,Cassava flour,cereals and tubers,KG,Kabeza,Eastern Province,Kirehe,Retail,1000.0
+2026,6,-2.13,29.36,Oil,oil and fats,L,Kiziba (Camp),Western Province,Karongi,Retail,4383.33
+2026,6,-2.31,30.84,Cassava flour,cereals and tubers,KG,Mahama (Camp),Eastern Province,Kirehe,Retail,742.86
+2026,4,-2.47,29.58,Maize,cereals and tubers,KG,Kabacuzi,Southern Province,Nyamagabe,Retail,500.0
+2026,3,-1.6,30.25,Oil,oil and fats,L,Bubare,Eastern Province,Gatsibo,Retail,3000.0
+2026,6,-2.28,30.59,Potatoes,cereals and tubers,KG,Gatore,Eastern Province,Kirehe,Retail,500.0
+2026,2,-1.6,30.28,Cassava leaves,vegetables and fruits,KG,Mugera,Eastern Province,Gatsibo,Retail,650.0
+2026,5,-2.48,29.52,Rice (imported),cereals and tubers,KG,Kigeme (Camp),Southern Province,Nyamagabe,Retail,1300.0
+2026,6,-1.6,30.28,Rice (local),cereals and tubers,KG,Mugera,Eastern Province,Gatsibo,Retail,1300.0
+2026,5,-2.06,29.41,Maize,cereals and tubers,KG,Rubengera,Western Province,Karongi,Retail,600.0
+2026,2,-2.27,30.68,Rice (local),cereals and tubers,KG,Nyakarambi,Eastern Province,Kirehe,Retail,1300.0
+2026,5,-2.49,29.52,Maize flour,cereals and tubers,KG,Kigeme,Southern Province,Nyamagabe,Retail,920.83
+2026,1,-2.68,29.85,Sugar,miscellaneous food,KG,Mugombwa,Southern Province,Gisagara,Retail,1500.0
+2026,2,-1.6,30.28,Cabbage,vegetables and fruits,KG,Mugera,Eastern Province,Gatsibo,Retail,200.0
+2026,7,-2.28,30.59,"Rice (long grain, high quality, local)",cereals and tubers,KG,Gatore,Eastern Province,Kirehe,Retail,1400.0
+2026,1,-2.27,30.68,Maize,cereals and tubers,KG,Nyakarambi,Eastern Province,Kirehe,Retail,517.5
+2026,2,-2.13,29.36,Maize flour (imported),cereals and tubers,KG,Kiziba (Camp),Western Province,Karongi,Retail,1167.5
+2026,3,-2.6,29.84,Beans (dry),pulses and nuts,KG,Gisagara,Southern Province,Gisagara,Retail,750.0
+2026,1,-2.13,29.36,Maize flour (imported),cereals and tubers,KG,Kiziba (Camp),Western Province,Karongi,Retail,1156.9
+2026,2,-2.27,30.68,Cassava flour,cereals and tubers,KG,Nyakarambi,Eastern Province,Kirehe,Retail,800.0
+2026,3,-1.6,30.26,Salt,miscellaneous food,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,622.58
+2026,7,-2.67,29.85,Maize flour,cereals and tubers,KG,Mugombwa (Camp),Southern Province,Gisagara,Retail,976.24
+2026,7,-2.31,30.83,Salt,miscellaneous food,KG,Kabeza,Eastern Province,Kirehe,Retail,600.0
+2026,7,-1.6,30.26,Maize,cereals and tubers,KG,Nyabiheke (Camp),Eastern Province,Gatsibo,Retail,568.06
