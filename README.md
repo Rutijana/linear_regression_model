@@ -20,7 +20,7 @@ https://farmgate-api.onrender.com/docs
 The API runs on Render's free plan and sleeps when idle, so the first request may take about 50 seconds to respond.
 
 ## 4. Video demo
-YOUTUBE_LINK_HERE
+https://youtu.be/yg_I_pjPrbc
 
 ## 5. Run the mobile app
 
